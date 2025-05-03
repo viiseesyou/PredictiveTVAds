@@ -1,1 +1,2 @@
-# Project aims to develop a predictive model for estimating television advertising block ratings. The primary goal is to optimize advertising campaign planning, allowing advertisers to make informed decisions based on accurate forecasts.
+# Наш проект нацелен на создание предиктивной модели оценки рейтингов телевизионных рекламных блоков.  Основная цель — оптимизировать планирование рекламных кампаний, что позволит рекламодателям принимать обоснованные решения на основе точных прогнозов.
+Основные данные представлены в файле: https://drive.google.com/file/d/17hr2AMno43rRa86qDrDXZGMbtB8048np/view?usp=drive_link
